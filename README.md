@@ -22,7 +22,7 @@ Encontrar insights e descobertas no conjunto de dados da Netflix
 
 ### 📸 Painel
 
-![Captura do painel de análise Netflix](https://via.placeholder.com/800x400.png?text=Captura+do+Painel+Netflix)
+![Captura do painel de análise Netflix](https://github.com/AlanDiego-py/Dash_Netflix/blob/main/f.png)
 
-👨‍💻 Autor
+### 👨‍💻 Autor
 Alan Diego – Analista de Dados Jr.
