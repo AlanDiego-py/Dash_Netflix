@@ -24,5 +24,7 @@ Encontrar insights e descobertas no conjunto de dados da Netflix
 
 ![Captura do painel de análise Netflix](https://github.com/AlanDiego-py/Dash_Netflix/blob/main/f.png)
 
+- Link para acessar no looker -> https://lookerstudio.google.com/s/qSEFA9QJi6s
+
 ### 👨‍💻 Autor
 Alan Diego – Analista de Dados Jr.
