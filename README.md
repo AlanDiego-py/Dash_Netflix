@@ -1,8 +1,5 @@
 # Análise Netflix - Movies e TV Shows
 ## 📌 Objetivo
-Analisar dados de vendas de supermercados nos EUA, em que, irei identificar padrões de consumo, desempenho por região, sazonalidade e insights comerciais.
-
-## 📌 Objetivo
 Encontrar insights e descobertas no conjunto de dados da Netflix
 
 ## 🧰 Ferramentas Utilizadas
